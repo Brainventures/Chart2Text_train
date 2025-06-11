@@ -1,0 +1,33 @@
+[
+    {
+      "image": "/data/Nia_data/blur_image_gpt/C_Source_223141_vertical bar_standard.jpg",
+      "query": "이 차트를 테이블로 변형하라.",
+      "label": "대상: \n제목: 콘텐츠솔루션산업 연령별 연도별 종사자 현황\n유형: 단일형 일반 세로 막대형\n | 2019년(명) | 2020년(명) | 2021년(명)\n29세 이하 | 10,179 | 10,444 | 12,196\n30 ~ 34세 | 9,391 | 9,828 | 12,050\n35~39세 | 7,657 | 7,972 | 9,624\n40 ~ 49세 | 2,410 | 2,552 | 3,092\n50세 이상 | 1,017 | 1,067 | 1,295"
+    },
+    {
+      "image": "/data/Nia_data/blur_image_gpt/C_Source_223141_vertical bar_standard.jpg",
+      "query": "2021년 29세 이하 종사자 수는 얼마인가?",
+      "label": "12,196명"
+    },
+    {
+      "image": "/data/Nia_data/blur_image_gpt/C_Source_223141_vertical bar_standard.jpg",
+      "query": "2020년 40 ~ 49세 종사자 수를 알려주세요.",
+      "label": "2,552명"
+    },
+    {
+      "image": "/data/Nia_data/blur_image_gpt/C_Source_223141_vertical bar_standard.jpg",
+      "query": "2019년과 2021년의 30 ~ 34세 종사자 수 차이는 얼마인가?",
+      "label": "2,659명"
+    },
+    {
+      "image": "/data/Nia_data/blur_image_gpt/C_Source_223141_vertical bar_standard.jpg",
+      "query": "50세 이상 종사자의 수를 연도별로 비교해 주세요.",
+      "label": "2019년 1,017명, 2020년 1,067명, 2021년 1,295명."
+    },
+    {
+      "image": "/data/Nia_data/blur_image_gpt/C_Source_215173_line_standard.jpg",
+      "query": "이 차트를 테이블로 변형하라.",
+      "label": "대상: \n제목: 외국인 강력 범죄자의 범행 동기\n유형: 단일형 선형\n | 가정불화(명) | 호기심(명)\n2020 | 5 | 10\n2021 | 3 | 13\n2022 | 2 | 16"
+    } 
+    ....
+]
